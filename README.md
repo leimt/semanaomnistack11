@@ -1,4 +1,4 @@
-
+[En français](https://github.com/leimt/semanaomnistack11/blob/master/README.fr.md)
 # Semana OmniStack 11.0
 
 Este repositório contém o código-fonte da [Semana OmniStack 11](https://rocketseat.com.br/week/inscricao/11.0) que aconteceu entre os dias 23 e 29 de março de 2020.
