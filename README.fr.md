@@ -1,15 +1,15 @@
 [Em português](https://github.com/leimt/semanaomnistack11)
 # La Semaine OmniStack 11.0
 
-Cette repositoire contient le sourcecode de la [Semaine OmniStack](https://rocketseat.com.br/week/inscricao/11.0) qui est arrivée entre les jours 23 et 29 de mars de 2020.
+Ce dépôt contient le code source de la [Semaine OmniStack](https://rocketseat.com.br/week/inscricao/11.0) qui est arrivée entre les jours 23 et 29 de mars de 2020.
 
 Le cours a été présenté par Diego Fernandes de la RocketSeat.
 
-Le cours est trop bien et on a abordée de divers thèmes comme la construction d'un backend avec Nodejs, l'execution des tests unitaires et test d'intégration avec [Jest](https://jestjs.io/docs/en/api).
+Le cours est trop bien et on a abordé des divers thèmes comme la construction d'un backend avec Nodejs, l'execution des tests unitaires et test d'intégration avec [Jest](https://jestjs.io/docs/en/api).
 
-Le frontend a été crée avec Reactjs.
+Le front-end a été crée avec Reactjs.
 
-Et aussi une application mobile qui peut être executé en iOs et Android crée avec React et [Expo](https://docs.expo.io/versions/v36.0.0/).
+Et aussi une application mobile qui peut être exécutée sur iOs et Android crée avec React et [Expo](https://docs.expo.io/versions/v36.0.0/).
 
 Chaque partie de l'application, backend, frontend et mobile, a até construit en utilisant l'IDE [Visual Studio Code](https://code.visualstudio.com/).
 
