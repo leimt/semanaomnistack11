@@ -3,6 +3,8 @@
 
 Ce dépôt contient le code source de la [Semaine OmniStack](https://rocketseat.com.br/week/inscricao/11.0) qui est arrivée entre les jours 23 et 29 de mars de 2020.
 
+C'est l'application Be the hero (web et mobile) pour aider les ONG qui aident les animaux des rues qui besoin de soins de santé à recevoir des donations.
+
 Le cours a été présenté par Diego Fernandes de la RocketSeat.
 
 Le cours est trop bien et on a abordé des divers thèmes comme la construction d'un backend avec Nodejs, l'exécution des tests unitaires et test d'intégration avec [Jest](https://jestjs.io/docs/en/api).
